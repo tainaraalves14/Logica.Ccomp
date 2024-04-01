@@ -1,8 +1,7 @@
-Sejam as proposições p: 
-
-Carlos fala francês, q: 
-Carlos fala inglês e r: 
-Carlos fala alemão, traduzir para a forma sentencial as seguintes proposições:
+Sejam as proposições 
+p: Carlos fala francês, 
+q: Carlos fala inglês e 
+r: Carlos fala alemão, traduzir para a forma sentencial as seguintes proposições:
 
 a)Carlos fala francês ou inglês, mas não fala alemão.
 
@@ -12,11 +11,11 @@ b)Carlos fala francês e inglês, ou não fala francês e alemão.
 
 (p∧q)∨(¬p∧r),
 
-c)É falso que Carlos fala francês mas não fala alemão.
+c)É falso que Carlos fala francês, mas não fala alemão.
 
 ¬(p∧¬r)
 
-d)É falso que Carlos fala inglês ou alemão mas que não fala francês.
+d)É falso que Carlos fala inglês ou alemão, mas que não fala francês.
 
 ¬((q∨r)∧¬p)
 
