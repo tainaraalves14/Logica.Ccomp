@@ -1,0 +1,34 @@
+Lógica proposicional V – Tautologia, Contradição e Contingência
+
+Tautologia: proposição composta cuja tabela verdade só apresenta valor lógico V.
+Contradição: proposição composta cuja tabela verdade só apresenta valor lógico F.
+Contingência: proposição composta que apresenta tabela verdade com valores lógicos V e F.
+
+
+
+Dada a proposição p: "Ana vai ao cinema" e q: "João vai ao teatro", determine a verdade ou falsidade das seguintes expressões:
+
+a) p∨q (Ana vai ao cinema ou João vai ao teatro)
+b) p∧q (Ana vai ao cinema e João vai ao teatro)
+c) ¬p (Não é verdade que Ana vai ao cinema)
+
+
+Considere as proposições p: "O dia está ensolarado" e q: "Está calor". Avalie a veracidade das seguintes expressões:
+
+a) p∧q (O dia está ensolarado e está calor)
+b) p∨¬q (O dia está ensolarado ou não está calor)
+c)¬p∧¬q (Não é verdade que o dia está ensolarado e não está calor)
+
+Utilizando as proposições p: "Maria estuda matemática" e q: "Pedro estuda física", determine se as seguintes expressões 
+são verdadeiras ou falsas:
+
+a)p∧q (Maria estuda matemática e Pedro estuda física)
+b)¬p∨q (Não é verdade que Maria estuda matemática ou Pedro estuda física)
+c) ¬(p∧¬q) (Não é verdade que Maria estuda matemática e não é verdade que Pedro estuda física)
+
+
+Considere as proposições p: "Hoje é segunda-feira" e q: "Maria tem aula de música". Avalie a veracidade das seguintes expressões:
+
+a)p∨q (Hoje é segunda-feira ou Maria tem aula de música)
+b)¬p∧¬q (Não é verdade que hoje é segunda-feira e não é verdade que Maria tem aula de música)
+c) p∧¬q (Hoje é segunda-feira e Maria não tem aula de música)
